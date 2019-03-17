@@ -21,7 +21,7 @@ use_math: true
 
 ## What is a Neural Network?
 
-![_config.yml]({{seokyoungchoi.github.io}}/images/Week1_1.png)
+![useful image]({{seokyoungchoi.github.io}}/images/Week1_1.png)
 
 위에서 보이는 model은 우리가 흔히 아는 Linear regression과는 조금 다릅니다.
 가격은 무조건 0보다 높다는 사실을 이용해, negative값을 가질 수 있는 부분을 0으로 대체하였기 때문입니다.
