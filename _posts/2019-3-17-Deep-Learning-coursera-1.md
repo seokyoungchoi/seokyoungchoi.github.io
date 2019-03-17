@@ -15,7 +15,7 @@ use_math: true
 	2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 	3. Structuring your ML project
 	4. Convolutional Neural Networks
-  5. Natural Language Processing: Building sequence models
+  	5. Natural Language Processing: Building sequence models
 		a. Sequence models includes RNN, LSTM, …
 
 
